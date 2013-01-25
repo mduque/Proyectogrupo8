@@ -645,7 +645,7 @@ var swfobject = function() {
 			return "";
 		},
 		
-		// For internal usage only
+		// Para uso interno solamanete 
 		expressInstallCallback: function() {
 			if (isExpressInstallActive && storedAltContent) {
 				var obj = getElementById(EXPRESS_INSTALL_ID);
