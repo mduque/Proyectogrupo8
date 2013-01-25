@@ -132,7 +132,7 @@ Spry.Widget.MenuBar.prototype.init = function(element, opts)
 	this.enableKeyboardNavigation = true;
 
 	this.hasFocus = false;
-	// load hover images now
+	// carga la imagenes ahora
 	if(opts)
 	{
 		for(var k in opts)
