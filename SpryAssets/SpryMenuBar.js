@@ -86,7 +86,7 @@ Spry.BrowserSniff = function()
 
 Spry.is = new Spry.BrowserSniff();
 
-// Constructor for Menu Bar
+// Constructor del Menu Bar
 // element should be an ID of an unordered list (<ul> tag)
 // preloadImage1 and preloadImage2 are images for the rollover state of a menu
 Spry.Widget.MenuBar = function(element, opts)
