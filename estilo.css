@@ -2,5 +2,35 @@
 #uno {
 	background-position: center center;
 	text-align: center;
-	background-color: #CECEF2;
+	background-color: #09F;
+}
+#uno {
+	color: #9DC4EA;
+}
+#uno {
+	color: #14A7C0;
+}
+#uno tr td {
+	color: #4FC6F2;
+}
+#uno {
+	color: #14DCD2;
+}
+.dos {
+	color: #0080FF;
+}
+.dos {
+	color: #2274D9;
+}
+.dos table {
+	color: #0080FF;
+}
+body table {
+	color: #09C;
+}
+#uno {
+	color: #0080FF;
+}
+.bg {
+	color: #03C;
 }
