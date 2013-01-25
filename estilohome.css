@@ -12,15 +12,15 @@ h2{font-family: Tahoma, Geneva, sans-serif;
 	margin-left: 10px;
 	text-shadow: 1px 1px 0px rgba(230,230,230,1), 2px 2px 0px rgba(200,200,200,1), 3px 3px 0px rgba(180,180,180,1), 4px 4px 0px rgba(160,160,160,1), 5px 5px 0px rgba(0,0,0,1), 8px 8px 20px rgba(0,0,0,0.5);}
 #inclinado {
-	color: #F60;
-	 -moz-transform: rotate(30deg);
+	color: #87CEEB;
+	 -moz-transform: rotate(45deg);
             -webkit-transform: rotate(30deg);
-            transform: rotate(30deg);
+            transform: rotate(45deg);
 }
 #revuelto {
-	color: #06C;
-	 -moz-transform: skew(30deg, 6deg);
-     -webkit-transform: skew(30deg, 6deg);
+	color: #87CEEB;
+	 -moz-transform: skew(30deg, 10deg);
+     -webkit-transform: skew(30deg, 10deg);
      transform: skew(30deg, 15deg);
 }
 img {
